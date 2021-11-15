@@ -3,3 +3,8 @@ In main_preproc, RR interval was extracted using the ECG signals of CHF, AF, Hea
 This includes features extracting through complexity quantification based on various entropy such as Multiscale Dispersion Entropy(MDE), Multiscale Cumulative Residual Dispersio Entropy(MCRDE), and Multiscale Sample Entropy(MSE) with preprocessed RRI as input
 
 
+> ## **main_feature_extraction.m** ##
+>> **MDE**
+>>> **DisEn_NCDF.m
+>>> **DisEn_NCDF_ms.m
+>>> 
