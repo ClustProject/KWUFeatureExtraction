@@ -4,7 +4,16 @@ This includes features extracting through complexity quantification based on var
 
 
 > ## **main_feature_extraction.m** ##
->> **MDE**
++ **MDE.m**
   - DisEn_NCDF.m 
   - DisEn_NCDF_ms.m
->>> 
+
++ **MCRDE.m**
+  - DisEn_NCDF.m 
+  - DisEn_NCDF_ms.m
+  - CumulativeFunc.m
+
++ **MSE_mu.m**
+
++ **pe.m**
+  - multiScale.m 
