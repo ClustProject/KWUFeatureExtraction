@@ -5,7 +5,7 @@ scale = 25;
 % Set parameters for entropy functions
 m=3; % Embedded dimension 
 c=6; % Num of class
-tau = 1; % Delay
+tau = 1; % Num of delay hyperparameter
 dim =3; % Embedded Dim of Permutation Entropy
 
 % CHF
